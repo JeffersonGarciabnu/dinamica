@@ -1,0 +1,15 @@
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\bin\Debug\net6.0\Dinamica1.exe
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\bin\Debug\net6.0\Dinamica1.deps.json
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\bin\Debug\net6.0\Dinamica1.runtimeconfig.json
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\bin\Debug\net6.0\Dinamica1.dll
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\bin\Debug\net6.0\Dinamica1.pdb
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.csproj.AssemblyReference.cache
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.AssemblyInfoInputs.cache
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.AssemblyInfo.cs
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.dll
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\refint\Dinamica1.dll
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.pdb
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\Dinamica1.genruntimeconfig.cache
+C:\Users\jefferson.sousa\Desktop\Dinamica1\Dinamica1\obj\Debug\net6.0\ref\Dinamica1.dll
